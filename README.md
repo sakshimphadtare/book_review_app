@@ -1,6 +1,6 @@
 # Book Review App
 
-![Book Review App](https://github.com/sakshimphadtare/book_review_app.git) 
+![Book Review App]
 
 ## Overview
 
